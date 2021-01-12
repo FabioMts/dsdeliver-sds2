@@ -1,6 +1,6 @@
 # dsdeliver-sds2
 
-Projeto realizado na semana Dev Superior onde consiste um
+Projeto realizado na semana Dev Superior onde consiste em um
 
 Sistema de registro e entrega de pedidos(delivery). 
 
